@@ -74,7 +74,6 @@ button:hover {
   color: #ffffff;
   font-size: 18px;
   margin: 8.7px;
-  box-sizing: border-box;
 }
 .operator:hover {
   width: 44px;
@@ -85,7 +84,6 @@ button:hover {
   border: #ed0e98 2px solid;
   font-size: 18px;
   margin: 8.7px;
-  box-sizing: border-box;
 }
 .result {
   width: 103px;
@@ -115,7 +113,6 @@ button:hover {
   color: #ffffff;
   font-size: 18px;
   margin: 8.7px;
-  box-sizing: border-box;
 }
 .angka {
   width: 44px;
@@ -124,7 +121,6 @@ button:hover {
   border: transparent 1px solid;
   font-size: 18px;
   margin: 8.7px;
-  box-sizing: border-box;
 }
 .angka:hover {
   width: 44px;
@@ -134,5 +130,4 @@ button:hover {
   background-color: #ed0e98;
   font-size: 18px;
   margin: 8.7px;
-  box-sizing: border-box;
 }
