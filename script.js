@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
   // Mengatur event listener untuk tombol angka dan operator
   keypadButtons.forEach((button) => {
     button.addEventListener("click", function () {
-      const value = button.getAttribute("value");
+      const value = button.value;
       inputField.value += value;
     });
   });
